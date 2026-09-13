@@ -4,7 +4,7 @@ A real-time human-computer interaction system that allows mouse and
 selected system controls using hand gestures, voice commands, and eye
 tracking.
 
-![Virtual Mouse Overview](assets/virtual-mouse-overview.png)
+![Virtual Mouse Overview](virtual-mouse-overview.png)
 
 ## Overview
 
