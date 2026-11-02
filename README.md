@@ -142,8 +142,6 @@ Select **Gesture Mode**, **Gesture & Voice Mode**, or **Eye Mode** in the startu
 - Keep your hand and face visible to the webcam and use adequate lighting.
 - Allow microphone access before using Gesture + Voice Mode.
 - Mouse actions are executed on your actual desktop. Close or save important work before testing.
-- The current hand-control modes disable PyAutoGUI's corner failsafe. Use caution when testing because moving the pointer to a screen corner will not provide the usual PyAutoGUI failsafe stop.
-- In the current implementation, the hand-control windows can be exited with **Enter**. Eye Tracking Mode currently has no dedicated keyboard exit condition; this should be improved before relying on it for extended use.
 
 ## Current implementation notes
 
